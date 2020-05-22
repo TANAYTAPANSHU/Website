@@ -3,4 +3,5 @@
 [![Build status](https://dev.azure.com/Dev-Beyond/Website/_apis/build/status/Changes%20to%20Github)](https://dev.azure.com/Dev-Beyond/Website/_build/latest?definitionId=3)
 
 # Website
-The official website source code for Dev&amp;Beyond
+
+The official website source code for Dev &amp; Beyond.
