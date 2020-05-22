@@ -1,14 +1,14 @@
-.navbar-expand-lg {
+/* .navbar-expand-lg {
     padding-top: 1em;
     padding-bottom: 2em;
-}
+} */
 
 .nav-item {
     font-family: 'Poppins', sans-serif;
     display: block;
     list-style-type: disc;
     margin-left: 8%;
-    font-size: 24px;
+    font-size: 20px;
     color: #3E3563 !important;
 }
 
@@ -44,6 +44,7 @@ h3{
 }
 
 .card {
+    margin: 10em;
     margin-left: 7em;
     margin-right: 7em;
 }
@@ -57,4 +58,19 @@ h3{
         margin-left: 2em;
         margin-right: 2em;
     }
+}
+
+.landingp{
+    background-color: #FEFCF8;
+    padding: 2em;
+    /* padding-bottom: 12%; */
+}
+
+.logo-im{
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.img-fluid{
+    padding: 5%;
 }
