@@ -1,33 +1,38 @@
 .navbar-expand-lg {
-    padding-top: -2em;
+    padding-top: 1em;
+    padding-bottom: 2em;
 }
 
-ul,
-li {
+.nav-item {
+    font-family: 'Poppins', sans-serif;
     display: block;
     list-style-type: disc;
-    margin-block-start: 2em;
-    margin-block-end: 2em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-    margin-left: .5em;
-    margin-right: .5em;
-    margin-top: 0.7em;
+    margin-left: 8%;
+    font-size: 24px;
+    color: #3E3563 !important;
 }
 
-a {
+body{
+    font-family: 'Poppins', sans-serif !important;
+    color: #3E3563 !important;
+}
+
+h3{
+    font-weight: 600;
+}
+
+.a{
     text-decoration: none;
     background-color: transparent;
 }
 
 .navbar-brand {
     display: inline-block;
-    padding-top: 0rem;
+    padding-top: 0.2rem;
     padding-bottom: .3125rem;
     margin-right: 1rem;
     margin-left: 0em;
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     line-height: inherit;
     white-space: nowrap;
 }
