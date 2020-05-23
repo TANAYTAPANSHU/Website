@@ -1,0 +1,50 @@
+header.masthead .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #fefcf8;
+  opacity: 1;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #f06955;
+  background-color: #3e3563 !important;
+  border-color: #3e3563 !important;
+}
+
+.btn {
+  font-size: 14px;
+  width: 75%;
+  min-width: 225px;
+  font-weight: 801;
+  padding: 15px 25px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  border-radius: 50px;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.btn-primary {
+  color: #FBF0DC;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+#mainNav .navbar-nav > li.nav-item > a {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+a {
+  color: #f06955;
+  transition: all .2s;
+}
+
+.text-muted {
+  color: #f06955!important;
+}
+
